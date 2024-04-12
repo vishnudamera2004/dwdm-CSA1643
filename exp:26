@@ -1,0 +1,27 @@
+@relation dataset
+
+@attribute transid{1,2,3,4,5}
+
+@attribute bread{true,false}
+
+@attribute cheese{true,false}
+
+@attribute egg{true,false}
+
+@attribute juice{true,false}
+
+@attribute milk{true,false}
+
+@attribute yogurt{true,false}
+
+@data
+
+1,true,true,true,true,false,false
+
+2,true,true,false,true,false,false
+
+3,true,false,false,false,true,true
+
+4,true,false,false,true,true,false
+
+5,false,true,false,true,true,false
