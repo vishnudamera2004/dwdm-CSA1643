@@ -1,0 +1,33 @@
+@relation dataset
+
+@attribute id{1,2,3,4,5,6,7,8,9}
+
+@attribute sony{true,false}
+
+@attribute bpl{true,false}
+
+@attribute lg{true,false}
+
+@attribute samsung{true,false}
+
+@attribute onida{true,false}
+
+@data
+
+1,true,true,true,false,false
+
+2,false,true,false,true,false
+
+3,false,true,false,false,true
+
+4,true,true,false,true,false
+
+5,true,false,false,false,true
+
+6,false,true,false,false,true
+
+7,true,false,false,false,true
+
+8,true,true,true,false,true
+
+9,true,true,false,false,true
