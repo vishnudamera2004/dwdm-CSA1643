@@ -1,0 +1,23 @@
+@relation dataset
+
+@attribute customerid{1,2,3,4,5}
+
+@attribute gender{male,female}
+
+@attribute age{19,21,20,23,31}
+
+@attribute annualincome{15,16,17}
+
+@attribute spendingscore{39,81,6,77,40}
+
+@data
+
+1 male 19 15 39
+
+2 male 21 15 81
+
+3 female 20 16 6
+
+4 female 23 16 77
+
+5 female 31 17 40
